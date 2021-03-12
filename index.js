@@ -1,10 +1,9 @@
 function array(x) {
-    array[
-      y=2,
-      x=3,
-      z=5
+    x[
+      y=2,3,5
+      
     ]
     return{
-      array  
+      var: x 
     }
 }
